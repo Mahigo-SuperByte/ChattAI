@@ -1,0 +1,6 @@
+{
+  "name": "Discord AI Council",
+  "description": "Discord-themed multi-bot chatroom powered by Puter.js featuring Claude, Gemini, ChatGPT, Llama, Grok, Deepseek, Qwen, Kimi, Mistral, Deep Cogito, and Z.ai talking together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
